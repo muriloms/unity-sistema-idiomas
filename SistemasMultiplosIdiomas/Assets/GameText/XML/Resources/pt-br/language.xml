@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<language>
+    <interface name="interface_titulo">
+        <textos>
+            <txt>Nome do Jogo</txt>
+            <txt>Informações sobre o jogo</txt>
+            <txt>Créditos</txt>
+        </textos>
+    </interface>
+</language>
